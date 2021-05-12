@@ -1,0 +1,12 @@
+---
+title: "week 10"
+author: "Karan garg"
+date: "12/05/2021"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(tidyverse)
+```
+
